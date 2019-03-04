@@ -3,12 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://AaG7xNnrgbzeyqc5woPS.github.io/post/first/</loc>
+    <lastmod>2019-03-04T16:59:14+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://AaG7xNnrgbzeyqc5woPS.github.io/about/</loc>
+    <lastmod>2019-03-04T16:58:38+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://AaG7xNnrgbzeyqc5woPS.github.io/</loc>
+    <lastmod>2019-03-04T16:59:14+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://AaG7xNnrgbzeyqc5woPS.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://AaG7xNnrgbzeyqc5woPS.github.io/post/</loc>
+    <lastmod>2019-03-04T16:59:14+08:00</lastmod>
     <priority>0</priority>
   </url>
   

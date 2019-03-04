@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AaG7xN&#39;s Hugo Site</title>
-    <link>http://AaG7xNnrgbzeyqc5woPS.github.io/</link>
-    <description>Recent content on AaG7xN&#39;s Hugo Site</description>
+    <title>Posts on AaG7xN&#39;s Hugo Site</title>
+    <link>http://AaG7xNnrgbzeyqc5woPS.github.io/post/</link>
+    <description>Recent content in Posts on AaG7xN&#39;s Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Mar 2019 16:59:14 +0800</lastBuildDate>
     
-	<atom:link href="http://AaG7xNnrgbzeyqc5woPS.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://AaG7xNnrgbzeyqc5woPS.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://AaG7xNnrgbzeyqc5woPS.github.io/post/first/</guid>
       <description>Hello Hugo  aaa bbb ccc  一个井号 两个井号 三个井号 markdown 语法终于有效果了</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://AaG7xNnrgbzeyqc5woPS.github.io/about/</link>
-      <pubDate>Mon, 04 Mar 2019 16:58:38 +0800</pubDate>
-      
-      <guid>http://AaG7xNnrgbzeyqc5woPS.github.io/about/</guid>
-      <description></description>
     </item>
     
   </channel>
